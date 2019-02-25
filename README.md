@@ -1,5 +1,8 @@
 # vue-cli3-tpl
 
+## 项目描述
+基于vue-cli3脚手架搭建的项目模板
+
 ## Project setup
 ```
 npm install
